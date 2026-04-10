@@ -2,17 +2,17 @@
   "sites": [
     {
       "name": "Cine OS",
-      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets/assets/config/content.json/cineos.html",
-      "icon": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets/assets/config/content.json/pics/cineos.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/cineos.html",
+      "icon": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/cineos.jpg",
       "type": "OpSys"
     },
     {
       "name": "Nexura",
-      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets/assets/config/content.json/nexus.html",
+      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/nexus.html",
       "icons": [
-        "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets/assets/config/content.json/pics/nexusMA.jpg",
-        "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets/assets/config/content.json/pics/nexusMB.jpg",
-        "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets/assets/config/content.json/pics/nexusMG.jpg"
+        "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/nexusMA.jpg",
+        "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/nexusMB.jpg",
+        "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/nexusMG.jpg"
       ],
       "type": "proxy/GS"
     }
