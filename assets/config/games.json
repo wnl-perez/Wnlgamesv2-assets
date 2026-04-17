@@ -2,29 +2,29 @@
   "games": [
     {
       "name": "Balatro",
-      "url": "/games/1FG/bl.html",
-      "icon": "/pics/bl.jpg",
+      "url": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/games/1FG/bl.html",
+      "icon": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/pics/bl.jpg",
       "mode": "iframe",
       "alert": "none"
     },
     {
       "name": "Drive Mad",
-      "url": "/games/1FG/drivemad.html",
-      "icon": "/pics/dm.png",
+      "url": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/games/1FG/drivemad.html",
+      "icon": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/pics/dm.png",
       "mode": "iframe",
       "alert": "none"
     },
     {
       "name": "FNAE",
-      "url": "/games/1FG/fnae.html",
-      "icon": "/pics/fnae.png",
+      "url": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/games/1FG/fnae.html",
+      "icon": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/pics/fnae.png",
       "mode": "iframe",
       "alert": "none"
     },
     {
       "name": "Gorilla Tag",
-      "url": "/games/1FG/gorillatag.html",
-      "icon": "/pics/gt.png",
+      "url": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/games/1FG/gorillatag.html",
+      "icon": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/pics/gt.png",
       "mode": "iframe",
       "alert": "none"
     },
@@ -37,15 +37,15 @@
     },
     {
       "name": "Stickman Duel",
-      "url": "/games/1FG/smd.html",
-      "icon": "/pics/smd.png",
+      "url": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/games/1FG/smd.html",
+      "icon": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/pics/smd.png",
       "mode": "iframe",
       "alert": "none"
     },
     {
       "name": "Space Waves",
-      "url": "/games/1FG/spacewaves.html",
-      "icon": "/pics/sw.png",
+      "url": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/games/1FG/spacewaves.html",
+      "icon": "https://raw.githubusercontent.com/wnl-perez/Wnlgamesv2-assets/refs/heads/main/pics/sw.png",
       "mode": "iframe",
       "alert": "none"
     }
