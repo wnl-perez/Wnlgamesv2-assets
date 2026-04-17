@@ -1,0 +1,24 @@
+{
+  "sites": [
+    {
+      "name": "Cine OS",
+      "url": "/cineos.html",
+      "icon": "/pics/cineos.jpg",
+      "type": "OpSys",
+      "mode": "iframe",
+      "alert": "none"
+    },
+    {
+      "name": "Nexura",
+      "url": "/nexus.html",
+      "icons": [
+        "/pics/nexusMA.jpg",
+        "/pics/nexusMB.jpg",
+        "/pics/nexusMG.jpg"
+      ],
+      "type": "proxy/GS",
+      "mode": "iframe",
+      "alert": "none"
+    }
+  ]
+}
