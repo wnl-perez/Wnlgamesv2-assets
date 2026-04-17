@@ -2,28 +2,28 @@
   "games": [
     {
       "name": "Balatro",
-      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/games/1FG/bl.html",
+      "url": "https://assets-v2-noterplus.firebaseapp.com/games/bl/index.html",
       "icon": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/bl.jpg",
       "mode": "iframe",
       "alert": "none"
     },
     {
       "name": "Drive Mad",
-      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/games/1FG/drivemad.html",
+      "url": "https://assets-v2-noterplus.firebaseapp.com/games/dm/index.html",
       "icon": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/dm.png",
       "mode": "iframe",
       "alert": "none"
     },
     {
       "name": "FNAE",
-      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/games/1FG/fnae.html",
+      "url": "https://assets-v2-noterplus.firebaseapp.com/games/fnae/index.html",
       "icon": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/fnae.png",
       "mode": "iframe",
       "alert": "none"
     },
     {
       "name": "Gorilla Tag",
-      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/games/1FG/gorillatag.html",
+      "url": "https://assets-v2-noterplus.firebaseapp.com/games/gt/index.html",
       "icon": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/gt.png",
       "mode": "iframe",
       "alert": "none"
@@ -37,14 +37,14 @@
     },
     {
       "name": "Stickman Duel",
-      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/games/1FG/smd.html",
+      "url": "https://assets-v2-noterplus.firebaseapp.com/games/smd/index.html",
       "icon": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/smd.png",
       "mode": "iframe",
       "alert": "none"
     },
     {
       "name": "Space Waves",
-      "url": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/games/1FG/spacewaves.html",
+      "url": "https://assets-v2-noterplus.firebaseapp.com/games/sp/index.html",
       "icon": "https://cdn.jsdelivr.net/gh/wnl-perez/Wnlgamesv2-assets@main/pics/sw.png",
       "mode": "iframe",
       "alert": "none"
